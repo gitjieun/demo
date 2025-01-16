@@ -1,0 +1,15 @@
+server:
+    port: 8080
+
+
+#spring:
+#    datasource:
+#        jndi-name: ds1-jndi
+#    jpa:
+#        database-platform: org.hibernate.dialect.AltibaseDialect
+#    mvc:
+#        log-request-details: true
+
+# JEUS에서 데이터소스를 이미 설정하고 관리하고 있다면,
+# Spring Boot의 application.yml 또는 application.properties에서 spring.datasource.* 설정을 추가할 필요가 없습니다.
+# 대신 JEUS가 제공하는 JNDI를 통해 데이터소스를 사용하도록 설정하면 됩니다.

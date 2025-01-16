@@ -1,0 +1,51 @@
+2025-01-09 09:38:10.311  INFO 13364 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.24 on DESKTOP-5KI1CA9 with PID 13364 (C:\DevelopmentEnvironment\workspace\demo11\target\classes started by yje in C:\DevelopmentEnvironment\workspace\demo11)
+2025-01-09 09:38:10.311  INFO 13364 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-01-09 09:38:10.617  INFO 13364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-01-09 09:38:10.621  INFO 13364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-09 09:38:10.621  INFO 13364 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-09 09:38:10.665  INFO 13364 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-09 09:38:10.665  INFO 13364 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 334 ms
+2025-01-09 09:38:10.782  INFO 13364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-09 09:38:10.792  INFO 13364 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.677 seconds (JVM running for 0.968)
+2025-01-09 09:38:48.077  INFO 31444 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.24 on DESKTOP-5KI1CA9 with PID 31444 (C:\DevelopmentEnvironment\workspace\demo11\target\classes started by yje in C:\DevelopmentEnvironment\workspace\demo11)
+2025-01-09 09:38:48.078  INFO 31444 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-01-09 09:38:48.376  INFO 31444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-01-09 09:38:48.379  INFO 31444 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-09 09:38:48.379  INFO 31444 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-09 09:38:48.419  INFO 31444 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-09 09:38:48.419  INFO 31444 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 323 ms
+2025-01-09 09:38:48.547  INFO 31444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-09 09:38:48.557  INFO 31444 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.676 seconds (JVM running for 0.938)
+2025-01-09 09:39:31.409  INFO 26796 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.24 on DESKTOP-5KI1CA9 with PID 26796 (C:\DevelopmentEnvironment\workspace\demo11\target\classes started by yje in C:\DevelopmentEnvironment\workspace\demo11)
+2025-01-09 09:39:31.410  INFO 26796 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-01-09 09:39:31.719  INFO 26796 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-01-09 09:39:31.722  INFO 26796 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-09 09:39:31.722  INFO 26796 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-09 09:39:31.757  INFO 26796 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-09 09:39:31.757  INFO 26796 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 331 ms
+2025-01-09 09:39:31.877  INFO 26796 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-09 09:39:31.882  INFO 26796 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.637 seconds (JVM running for 0.903)
+2025-01-09 09:39:31.883  INFO 26796 --- [main] com.example.demo.DemoApplication         : 쿼리 결과: 
+
+2025-01-09 09:40:21.385  INFO 31404 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.24 on DESKTOP-5KI1CA9 with PID 31404 (C:\DevelopmentEnvironment\workspace\demo11\target\classes started by yje in C:\DevelopmentEnvironment\workspace\demo11)
+2025-01-09 09:40:21.386  INFO 31404 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-01-09 09:40:21.677  INFO 31404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-01-09 09:40:21.680  INFO 31404 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-09 09:40:21.680  INFO 31404 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-09 09:40:21.715  INFO 31404 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-09 09:40:21.715  INFO 31404 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 312 ms
+2025-01-09 09:40:21.842  INFO 31404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-09 09:40:21.851  INFO 31404 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.665 seconds (JVM running for 0.932)
+2025-01-09 09:40:21.855  INFO 31404 --- [main] com.example.demo.DemoApplication         : 쿼리 결과: 
+
+2025-01-09 09:41:19.515  INFO 29376 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication using Java 11.0.24 on DESKTOP-5KI1CA9 with PID 29376 (C:\DevelopmentEnvironment\workspace\demo11\target\classes started by yje in C:\DevelopmentEnvironment\workspace\demo11)
+2025-01-09 09:41:19.516  INFO 29376 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-01-09 09:41:19.825  INFO 29376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2025-01-09 09:41:19.828  INFO 29376 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-09 09:41:19.829  INFO 29376 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-09 09:41:19.865  INFO 29376 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-09 09:41:19.865  INFO 29376 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 331 ms
+2025-01-09 09:41:19.989  INFO 29376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-09 09:41:19.998  INFO 29376 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 0.681 seconds (JVM running for 0.951)
+2025-01-09 09:41:20.003  INFO 29376 --- [main] com.example.demo.DemoApplication         : 쿼리 결과: 
+
