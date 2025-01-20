@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<configuration>
-	<property name="LOG_PATH" value="/home/imeco" />
-	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
-		<encoder>
-			<pattern>%d{yyyyMMdd HH:mm:ss.SSS} [%thread] %-5level %logger{36} [%line] - %msg%n</pattern>
-		</encoder>
-	</appender>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<configuration>-->
+<!--	<property name="LOG_PATH" value="/home/imeco" />-->
+<!--	<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">-->
+<!--		<encoder>-->
+<!--			<pattern>%d{yyyyMMdd HH:mm:ss.SSS} [%thread] %-5level %logger{36} [%line] - %msg%n</pattern>-->
+<!--		</encoder>-->
+<!--	</appender>-->
 
-	<appender name="FILE"
-		class="ch.qos.logback.core.rolling.RollingFileAppender">
-		<encoder>
-			<pattern>%d{yyyyMMdd HH:mm:ss.SSS} [%thread] %-5level %logger{36} [%line] - %msg%n</pattern>
-		</encoder>
-		<file>${LOG_PATH}/wssds.log</file>
-		<rollingPolicy
-			class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-			<fileNamePattern>${LOG_PATH}/wssds.%d{yyyyMMdd}.log</fileNamePattern>
-			<maxHistory>30</maxHistory>
-		</rollingPolicy>
-	</appender>
+<!--	<appender name="FILE"-->
+<!--		class="ch.qos.logback.core.rolling.RollingFileAppender">-->
+<!--		<encoder>-->
+<!--			<pattern>%d{yyyyMMdd HH:mm:ss.SSS} [%thread] %-5level %logger{36} [%line] - %msg%n</pattern>-->
+<!--		</encoder>-->
+<!--		<file>${LOG_PATH}/wssds.log</file>-->
+<!--		<rollingPolicy-->
+<!--			class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">-->
+<!--			<fileNamePattern>${LOG_PATH}/wssds.%d{yyyyMMdd}.log</fileNamePattern>-->
+<!--			<maxHistory>30</maxHistory>-->
+<!--		</rollingPolicy>-->
+<!--	</appender>-->
 
-	<logger name="com.example.demo" level="debug" additivity="false">
-		<appender-ref ref="CONSOLE" />
-		<appender-ref ref="FILE" />
-	</logger>
+<!--	<logger name="com.example.demo" level="debug" additivity="false">-->
+<!--		<appender-ref ref="CONSOLE" />-->
+<!--		<appender-ref ref="FILE" />-->
+<!--	</logger>-->
 
-	<root level="debug">
-		<appender-ref ref="CONSOLE" />
-		<appender-ref ref="FILE" />
-	</root>
-</configuration>
+<!--	<root level="debug">-->
+<!--		<appender-ref ref="CONSOLE" />-->
+<!--		<appender-ref ref="FILE" />-->
+<!--	</root>-->
+<!--</configuration>-->
